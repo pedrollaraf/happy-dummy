@@ -1,0 +1,10 @@
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\bin\Debug\HappyDummyWFA.exe.config
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\bin\Debug\HappyDummyWFA.exe
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\bin\Debug\HappyDummyWFA.pdb
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.csproj.AssemblyReference.cache
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.Properties.Resources.resources
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.csproj.GenerateResource.cache
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.csproj.CoreCompileInputs.cache
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.exe
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.pdb
+C:\Users\plfdev\Documents\dev\pllfdev\happydummy\HappyDummyWFA\HappyDummyWFA\obj\Debug\HappyDummyWFA.Home.resources
