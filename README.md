@@ -1,6 +1,6 @@
 # Happy Dummy
 
-A tibia bot to train knights with Mad Sheep.</br>
+A tibia macro to train knights with Mad Sheep.</br>
 Requirements :</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Knight lvl 10 to 15</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Sword of lvl 65+ (Your character must be 50 levels below the level required by the sword.)</br>
